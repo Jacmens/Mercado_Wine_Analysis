@@ -1,0 +1,9 @@
+quality_label
+low       224
+medium    109
+high       68
+Quality label Counts: quality_label
+low       224
+medium    109
+high       68
+Name: count, dtype: int64
